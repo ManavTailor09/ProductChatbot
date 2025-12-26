@@ -1,0 +1,151 @@
+product_id,product_name,category,price,rating
+P001,Samsung Galaxy S23,Smartphone,74999,4.8
+P002,Samsung Galaxy A54,Smartphone,35999,4.4
+P003,Samsung Galaxy M34,Smartphone,18999,4.3
+P004,iPhone 15,Smartphone,79999,4.9
+P005,iPhone 14,Smartphone,68999,4.8
+P006,iPhone 13,Smartphone,58999,4.7
+P007,Xiaomi Redmi Note 13,Smartphone,16999,4.4
+P008,Xiaomi 13 Pro,Smartphone,74999,4.6
+P009,Realme Narzo 60,Smartphone,16999,4.3
+P010,Realme C55,Smartphone,12999,4.2
+P011,OnePlus 11R,Smartphone,39999,4.6
+P012,OnePlus Nord CE 3,Smartphone,25999,4.5
+P013,Vivo V29,Smartphone,32999,4.4
+P014,Vivo Y27,Smartphone,14999,4.1
+P015,Oppo A78,Smartphone,17999,4.2
+P016,Oppo Reno 10,Smartphone,32999,4.4
+P017,Samsung Galaxy F54,Smartphone,28999,4.3
+P018,iPhone SE 3rd Gen,Smartphone,49999,4.5
+P019,Xiaomi Poco X5 Pro,Smartphone,22999,4.4
+P020,Xiaomi Redmi 12,Smartphone,10999,4.1
+P021,OnePlus 12,Smartphone,69999,4.8
+P022,OnePlus Nord N20,Smartphone,15999,4.2
+P023,Realme GT Neo 3,Smartphone,32999,4.5
+P024,Oppo F21 Pro,Smartphone,25999,4.3
+P025,iQOO Neo 7,Smartphone,28999,4.4
+P026,Tecno Pova 5,Smartphone,11999,4.1
+P027,Moto Edge 40,Smartphone,29999,4.4
+P028,Moto G54,Smartphone,13999,4.2
+P029,Nokia G42,Smartphone,12999,4.0
+P030,Samsung A14,Smartphone,14999,4.1
+P031,HP Pavilion 15,Laptop,63999,4.5
+P032,HP Victus Gaming,Laptop,75999,4.6
+P033,Dell Inspiron 3511,Laptop,52999,4.3
+P034,Dell Gaming G15,Laptop,85999,4.6
+P035,ASUS VivoBook 15,Laptop,49999,4.4
+P036,ASUS ROG Strix G17,Laptop,119999,4.8
+P037,Lenovo IdeaPad Slim 3,Laptop,37999,4.3
+P038,Lenovo Legion 5,Laptop,99999,4.7
+P039,Acer Aspire 7,Laptop,56999,4.4
+P040,Apple MacBook Air M1,Laptop,83999,4.8
+P041,Apple MacBook Air M2,Laptop,99999,4.9
+P042,HP 14s Ryzen,Laptop,42999,4.2
+P043,Dell Latitude,Laptop,65999,4.3
+P044,ASUS TUF Gaming F15,Laptop,75999,4.6
+P045,Lenovo ThinkPad E14,Laptop,78999,4.5
+P046,Acer Predator Helios,Laptop,129999,4.7
+P047,Samsung Galaxy Book3,Laptop,79999,4.6
+P048,MSI Prestige 14,Laptop,104999,4.7
+P049,Microsoft Surface Laptop 5,Laptop,114999,4.8
+P050,Infinix INBook X2,Laptop,32999,4.1
+P051,HP Omen 16,Laptop,139999,4.7
+P052,Dell XPS 13,Laptop,149999,4.9
+P053,ASUS Chromebook,Laptop,29999,4.0
+P054,RedmiBook 15,Laptop,38999,4.2
+P055,Avita Pura E14,Laptop,25999,4.0
+P056,Honor MagicBook X,Laptop,48999,4.3
+P057,Lenovo LOQ Gaming,Laptop,89999,4.5
+P058,Acer Swift Go,Laptop,63999,4.4
+P059,Apple MacBook Pro M2,Laptop,169999,4.9
+P060,ASUS ExpertBook B3,Laptop,69999,4.4
+P061,Samsung Crystal 55 4K,Television,46999,4.6
+P062,Samsung QLED 65,Television,129999,4.8
+P063,Sony Bravia 50 4K,Television,82999,4.7
+P064,Sony Bravia 43 LED,Television,55999,4.5
+P065,LG 55 OLED,Television,149999,4.8
+P066,LG 43 UHD,Television,32999,4.4
+P067,Mi Smart TV 50,Television,28999,4.3
+P068,Mi Smart TV 32,Television,13999,4.2
+P069,TCL QLED 55,Television,45999,4.4
+P070,OnePlus TV Y1S 43,Television,24999,4.3
+P071,Realme Smart TV 43,Television,22999,4.3
+P072,Vu Premium 55,Television,32999,4.4
+P073,Hisense 55 ULED,Television,37999,4.4
+P074,Nokia 50 UHD,Television,34999,4.3
+P075,Acer 43 Boundless,Television,23999,4.2
+P076,Infinix X3 43,Television,20999,4.1
+P077,Kodak 42 Full HD,Television,16999,4.0
+P078,Toshiba 55 Fire TV,Television,29999,4.3
+P079,Redmi TV 65 Max,Television,67999,4.5
+P080,LG NanoCell 50,Television,79999,4.6
+P081,Nike Air Max Shoes,Fashion,7999,4.6
+P082,Nike Sports T-shirt,Fashion,1999,4.4
+P083,Adidas Ultraboost,Fashion,9299,4.7
+P084,Adidas Hoodie,Fashion,3599,4.4
+P085,Levi’s Regular Fit Jeans,Fashion,2999,4.5
+P086,Levi’s Denim Jacket,Fashion,3699,4.6
+P087,Zara Floral Dress,Fashion,3499,4.5
+P088,Zara Sweatshirt,Fashion,2599,4.4
+P089,Puma Running Shoes,Fashion,3999,4.4
+P090,Puma Track Pants,Fashion,2499,4.3
+P091,H&M Women Top,Fashion,999,4.3
+P092,H&M Men Shirt,Fashion,1999,4.4
+P093,Woodland Boots Brown,Fashion,4999,4.4
+P094,US Polo T-Shirt,Fashion,1499,4.2
+P095,Only Women Jeans,Fashion,2999,4.4
+P096,Allen Solly Shirt,Fashion,2499,4.3
+P097,Van Heusen Blazer,Fashion,4599,4.5
+P098,Tommy Hilfiger Polo,Fashion,2799,4.4
+P099,Biba Ethnic Suit,Fashion,3599,4.6
+P100,W Kurti Women,Fashion,1599,4.3
+P101,Libas Kurta Set,Fashion,2299,4.4
+P102,Crocs Unisex Clog,Fashion,2899,4.5
+P103,Campus Running Shoes,Fashion,1999,4.1
+P104,Ray-Ban Aviator Sunglasses,Fashion,5499,4.6
+P105,Wildcraft Backpack,Fashion,1799,4.3
+P106,Jockey Boxer Pack,Fashion,899,4.2
+P107,Casio Wrist Watch,Fashion,2499,4.5
+P108,Titan Analog Watch,Fashion,3499,4.6
+P109,Fossil Chronograph Watch,Fashion,8499,4.7
+P110,Zara Winter Coat,Fashion,5599,4.5
+P111,Ikea 3-Seater Sofa,Furniture,32999,4.5
+P112,Ikea Dining Table,Furniture,25999,4.4
+P113,Nilkamal Plastic Chair,Furniture,999,4.2
+P114,Godrej Single Bed,Furniture,22999,4.4
+P115,Godrej Almirah,Furniture,18999,4.3
+P116,Prestige Pressure Cooker 5L,Kitchen,1899,4.4
+P117,Prestige Gas Stove 3 Burner,Kitchen,4999,4.5
+P118,Milton Thermosteel Bottle,Kitchen,749,4.3
+P119,Cello Icebox Cooler,Kitchen,2299,4.2
+P120,Bajaj Room Heater,Home Appliance,2899,4.1
+P121,Whirlpool Refrigerator 265L,Home Appliance,27999,4.5
+P122,LG Washing Machine 7kg,Home Appliance,29999,4.6
+P123,Havells Ceiling Fan,Home Appliance,1999,4.3
+P124,Philips LED Bulb 12W,Home Appliance,199,4.1
+P125,Kent RO Water Purifier,Home Appliance,16999,4.5
+P126,Prestige Mixer Grinder,Kitchen,2999,4.4
+P127,Tefal Nonstick Fry Pan,Kitchen,1299,4.2
+P128,Hawkins Contura Cooker,Kitchen,2199,4.4
+P129,Borosil Glass Set,Kitchen,899,4.2
+P130,Symphony Air Cooler,Home Appliance,8499,4.3
+P131,Ikea Bookshelf Wooden,Furniture,3999,4.5
+P132,Nilkamal Center Table,Furniture,2999,4.2
+P133,Godrej Mattress 6 inch,Furniture,15999,4.4
+P134,Faber Chimney,Home Appliance,9999,4.5
+P135,Kutchina Air Fryer,Kitchen,4999,4.3
+P136,Tata Tea Gold 1Kg,Grocery,549,4.6
+P137,Aashirvaad Atta 10Kg,Grocery,449,4.5
+P138,Amul Butter 500gm,Grocery,245,4.7
+P139,Colgate Toothpaste 4 Pack,Grocery,149,4.3
+P140,Nivea Soft Cream 200ml,Beauty,199,4.4
+P141,Lakme Kajal Black,Beauty,149,4.5
+P142,Dove Shampoo 650ml,Beauty,399,4.4
+P143,Surf Excel Matic 2Kg,Grocery,399,4.5
+P144,Maggi Noodles 12 Pack,Grocery,149,4.4
+P145,Keratin Hair Serum,Beauty,349,4.3
+P146,Harpic Toilet Cleaner 1L,Grocery,149,4.5
+P147,Wild Stone Perfume,Beauty,499,4.6
+P148,Sugar Cosmetics Lipstick,Beauty,599,4.5
+P149,Clinic Plus Shampoo 650ml,Beauty,349,4.3
+P150,Parachute Coconut Oil 1L,Beauty,299,4.4
